@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I'm Muhammad Aslah 👋<br><br>AI & Full-Stack Developer focused on building RAG-based systems, <br>LLM applications, and scalable web architectures.<br><br>Passionate about practical AI engineering and production-ready solutions.
 
