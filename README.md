@@ -2,10 +2,6 @@
 Hi, I'm Muhammad Aslah 👋<br><br>AI & Full-Stack Developer focused on building RAG-based systems, <br>LLM applications, and scalable web architectures.<br><br>Passionate about practical AI engineering and production-ready solutions.
 
 
-# 💫 About Me:
-Hi, I'm Muhammad Aslah 👋<br><br>AI & Full-Stack Developer focused on building RAG-based systems, <br>LLM applications, and scalable web architectures.<br><br>Passionate about practical AI engineering and production-ready solutions.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aslhh._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aslah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aslahkp007@gmail.com) 
 
